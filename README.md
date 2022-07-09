@@ -23,7 +23,7 @@ Students coded and realized the data analysis in the modern open data science to
 - Scopus data for each AIP proceedings, its authors and contributions: [pybliometrics]( https://github.com/pybliometrics-dev/pybliometrics)  
 (Rose, Michael E. and John R. Kitchin: ["pybliometrics: Scriptable bibliometrics using a Python interface to Scopus"](https://github.com/pybliometrics-dev/pybliometrics/blob/master/meta/1-s2.0-S2352711019300573-main.pdf), SoftwareX 10 (2019) 100263.)
 - Web and pdf scrapping of AIP proceedings: [pdfplumber](https://github.com/jsvine/pdfplumber}, [requests](https://requests.readthedocs.io/en/latest/)
-- Data manipulation, processing, analysis, visualization: [Scientific python packages pandas, numpy, matplotlib, seaborn](https://projects.scipy.org/) 
+- Data manipulation, processing, analysis, visualization: [Scientific python packages pandas, NumPy, Matplotlib, Seaborn](https://projects.scipy.org/) 
 
 ## Acknowledgements
 All source code is distributed under [the MIT license](https://choosealicense.com/licenses/mit/).
