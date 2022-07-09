@@ -17,7 +17,7 @@ One non-educational AIP conference in research and applications of renewable ene
 
 To see results click above on a particular Jupyter notebook, e.g. `DIDSCI+2022vsAIPconf.ipynb` or `ISET2018.ipynb`
 
-The data analysis and statistics dealing with content, scope and quality of conferences were performed by group of students from a course **Modern educational digital technology** taught by Jozef Hanč at P.J. Šafárik university in Košice.
+The data analysis and statistics dealing with content, scope and quality of conferences were performed by a group of students (special thanks to Dominik Borovský) from a course **Modern educational digital technology** taught by Jozef Hanč at P.J. Šafárik university in Košice.
  
 Students coded and realized the data analysis in the modern open data science tool [Jupyter](https://jupyter.org/). Checking their code and verifying the correctness of their work (16 notebooks & 2 own packages) was done by Jozef Hanč. 
 
