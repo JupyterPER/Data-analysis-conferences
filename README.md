@@ -13,9 +13,9 @@ One non-educational AIP conference in research and applications of renewable ene
 - **ICORE 2019** (open access) https://aip.scitation.org/toc/apc/2228/1
 
 
-## Background
+## Results Background
 
-To see results click above on a particular Jupyter notebook, e.g. `DIDSCI+2022vsAIPconf.ipynb`.
+To see results click above on a particular Jupyter notebook, e.g. `DIDSCI+2022vsAIPconf.ipynb` or `ISET2018.ipynb`
 
 The data analysis and statistics dealing with content, scope and quality of conferences were performed by group of students from a course **Modern educational digital technology** taught by Jozef Hanč at P.J. Šafárik university in Košice.
  
