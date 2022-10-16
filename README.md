@@ -21,6 +21,8 @@ The data analysis and statistics dealing with content, scope and quality of conf
  
 Students coded and realized the data analysis in the modern open data science tool [Jupyter](https://jupyter.org/). Checking their code (16 notebooks & 2 own packages), verifying the correctness of their work and finalizing was done by Jozef Hanč. 
 
+Our research deals with one of our data science research projects, mentioned below in Acknowledgements. Dominik Borovský is also a student research assistant whose work is directly connected to the project.
+
 ## Applied Python packages in Jupyter
 - Scopus data for each AIP proceedings, its authors and contributions: [pybliometrics]( https://github.com/pybliometrics-dev/pybliometrics)  
 (Rose, Michael E. and John R. Kitchin: ["pybliometrics: Scriptable bibliometrics using a Python interface to Scopus"](https://github.com/pybliometrics-dev/pybliometrics/blob/master/meta/1-s2.0-S2352711019300573-main.pdf), SoftwareX 10 (2019) 100263.)
@@ -29,5 +31,5 @@ Students coded and realized the data analysis in the modern open data science to
 
 ## Acknowledgements
 All source code is distributed under [the MIT license](https://choosealicense.com/licenses/mit/).
-This work is also connected to Data Science Research Projects supported by the Slovak Research and Development Agency under the contract no. APVV -17-0568.
+This work was supported by the Slovak Research and Development Agency under the Contract no. APVV -17-0568.
 
