@@ -29,4 +29,5 @@ Students coded and realized the data analysis in the modern open data science to
 
 ## Acknowledgements
 All source code is distributed under [the MIT license](https://choosealicense.com/licenses/mit/).
-This work is also connected to Data Science Research Projects supported by the Slovak Research and Development Agency under the contract no. APVV-21-0216, APVV-21-0369.
+This work is also connected to Data Science Research Projects supported by the Slovak Research and Development Agency under the contract no. APVV -17-0568.
+
