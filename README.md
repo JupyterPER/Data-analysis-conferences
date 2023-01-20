@@ -35,5 +35,4 @@ This work was supported by the Slovak Research and Development Agency under the 
 
 ## Further applications
 The developed algorithms and applied bibliometric analysis tools became regularly used in automatic systematic reviews of relevant research dealing with our
-current projects supported by the Slovak Research and Development Agency under the Contract no. APVV-21-
-0216 and APVV-21-0369.
+current projects supported by the Slovak Research and Development Agency under the Contract no. APVV-21-0216 and APVV-21-0369.
