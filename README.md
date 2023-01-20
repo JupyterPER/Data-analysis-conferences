@@ -33,3 +33,7 @@ Our research deals with one of our data science research projects, mentioned bel
 All source code is distributed under [the MIT license](https://choosealicense.com/licenses/mit/).
 This work was supported by the Slovak Research and Development Agency under the Contract no. APVV -17-0568.
 
+## Further applications
+The developed algorithms and applied bibliometric analysis tools became regularly used in automatic systematic reviews of relevant research dealing with our
+current projects supported by the Slovak Research and Development Agency under the Contract no. APVV-21-
+0216 and APVV-21-0369.
